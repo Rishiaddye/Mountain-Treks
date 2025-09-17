@@ -1,2 +1,2 @@
-# Mountain-Treks
-This is a Mountain Trekking Website
+#Mountain Hikes.
+Welcome to the Mountain Hikes .
